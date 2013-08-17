@@ -7,7 +7,7 @@
 <meta name="copyright"content="company name">
 <meta name="language" content="ES">
 <meta name="robots" content="index,follow" />
-<meta name="revised" content="Sunday, July 18th, 2010, 5:15 pm" />
+<meta name="revised" content="Sunday, Aug 17th, 2013, 5:15 pm" />
 <meta name="abstract" content="">
 <meta name="topic" content="">
 <meta name="summary" content="">
@@ -33,22 +33,22 @@
 ## OpenGraph Meta Tags
 
 ``` html
-<meta name="og:title" content="The Rock"/>
+<meta name="og:title" content="The Best Site"/>
 <meta name="og:type" content="movie"/>
-<meta name="og:url" content="http://www.imdb.com/title/tt0117500/"/>
-<meta name="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
+<meta name="og:url" content="http://dotoca.net/title/tt0117500/"/>
+<meta name="og:image" content="http://dotoca.net/rock.jpg"/>
 <meta name="og:site_name" content="IMDb"/>
 <meta name="og:description" content="A group of U.S. Marines, under command of..."/>
 
-<meta name="fb:page_id" content="43929265776" />
+<meta name="fb:page_id" content="4392...5776" />
 
 <meta name="og:email" content="me@example.com"/>
-<meta name="og:phone_number" content="650-123-4567"/>
-<meta name="og:fax_number" content="+1-415-123-4567"/>
+<meta name="og:phone_number" content="650-...-4567"/>
+<meta name="og:fax_number" content="+1-415...4567"/>
 
 <meta name="og:latitude" content="37.416343"/>
 <meta name="og:longitude" content="-122.153013"/>
-<meta name="og:street-address" content="1601 S California Ave"/>
+<meta name="og:street-address" content="1601 California"/>
 <meta name="og:locality" content="Palo Alto"/>
 <meta name="og:region" content="CA"/>
 <meta name="og:postal-code" content="94304"/>
@@ -89,7 +89,7 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 #### ClaimID
 
 ``` html
-<meta name="microid" content="mailto+http:sha1:e6058ed7fca4a1921cq91d7f1f3b8736cd3cc1g7" />
+<meta name="microid" content="mailto+http:sha1:58ed7fca4a....f3b8736cd3c" />
 ```
     
 #### Apple Meta Tags
@@ -109,7 +109,7 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 <meta http-equiv="Page-Exit" content="RevealTrans(Duration=3.0,Transition=12)" />
 <meta name="mssmarttagspreventparsing" content="true">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta name="msapplication-starturl" content="http://blog.reybango.com/about/"/>
+<meta name="msapplication-starturl" content="http://dotoca.net/"/>
 <meta name="msapplication-window" content="width=800;height=600"/>
 <meta name="msapplication-navbutton-color" content="red"/>
 <meta name="application-name" content="Rey Bango Front-end Developer"/>
@@ -137,7 +137,7 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 
 ``` html
 <meta name="csrf-param" content="authenticity_token"/>
-<meta name="csrf-token" content="/bZVwvomkAnwAI1Qd37lFeewvpOIiackk9121fFwWwc="/>
+<meta name="csrf-token" content="/VwvomkAnwAI...eewvpOIiackk9121fFwW="/>
 ```
 
 #### Apple Tags
@@ -160,29 +160,28 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 ## HTML Link Tags
 
 ``` html
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/martini" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/dotoca-net" />
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
 <link rel="fluid-icon" type="image/png" href="/fluid-icon.png" />
-<link rel="me" type="text/html" href="http://google.com/profiles/thenextweb"/>
-<link rel='shortlink' href='http://blog.unto.net/?p=353' />
-<link rel='archives' title='May 2003' href='http://blog.unto.net/2003/05/' />
-<link rel='index' title='DeWitt Clinton' href='http://blog.unto.net/' />
-<link rel='start' title='Pattern Recognition 1' href='http://blog.unto.net/photos/pattern_recognition_1_about/' />
-<link rel='prev' title='OpenSearch and OpenID?  A sure way to get my attention.' href='http://blog.unto.net/opensearch/opensearch-and-openid-a-sure-way-to-get-my-attention/' />
-<link rel='next' title='Not blog' href='http://blog.unto.net/meta/not-blog/' />
-<link rel="search" href="/search.xml" type="application/opensearchdescription+xml" title="Viatropos" />
+<link rel="me" type="text/html" href="https://plus.google.com/u/0/105445349934474968688"/>
+<link rel='shortlink' href='http://dotoca.net/?vs78dcs' />
+<link rel='archives' title='May 2003' href='http://dotoca.net/2003/05/' />
+<link rel='index' title='DeWitt Clinton' href='http://dotoca.net/' />
+<link rel='start' title='Pattern Recognition 1' href='http://dotoca.net/page/' />
+<link rel='prev' title='OpenSearch and OpenID?  A sure way to get my attention.' href='http://dotoca.net/page/1/' />
+<link rel='next' title='Not blog' href='http://dotoca.net/page/2/' />
+<link rel="search" href="/search.xml" type="application/opensearchdescription+xml" title="Dotoca.net" />
 
-<link rel="self" type="application/atom+xml" href="http://www.syfyportal.com/atomFeed.php?page=3"/>
-<link rel="first" href="http://www.syfyportal.com/atomFeed.php"/>
-<link rel="next" href="http://www.syfyportal.com/atomFeed.php?page=4"/>
-<link rel="previous" href="http://www.syfyportal.com/atomFeed.php?page=2"/>
-<link rel="last" href="http://www.syfyportal.com/atomFeed.php?page=147"/>
+<link rel="self" type="application/atom+xml" href="http://dotoca.net/AtomFeed/"/>
+<link rel="first" href="http://dotoca.net/atomFeed.php"/>
+<link rel="next" href="http://dotoca.net/atomFeed.php?page=4"/>
+<link rel="previous" href="http://dotoca.net/atomFeed.php?page=2"/>
+<link rel="last" href="http://dotoca.net/atomFeed.php?page=147"/>
 
-<link rel='shortlink' href='http://smallbiztrends.com/?p=43625' />
-<link rel="canonical" href="http://smallbiztrends.com/2010/06/9-things-to-do-before-entering-social-media.html" />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://smallbiztrends.com/xmlrpc.php?rsd" />
-<link rel="pingback" href="http://smallbiztrends.com/xmlrpc.php" />
-<link media="only screen and (max-device-width: 480px)" href="http://wordpress.org/style/iphone.css" type="text/css" rel="stylesheet" />
+<link rel="canonical" href="http://dotoca.net/en/articles.html" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dotoca.net/xmlrpc.php?rsd" />
+<link rel="pingback" href="http://dotoca.net/xmlrpc.php" />
+<link media="only screen and (max-device-width: 480px)" href="http://dotoca.net/style/iphone.css" type="text/css" rel="stylesheet" />
 ```
 
 #### Remove image toolbar from IE6
