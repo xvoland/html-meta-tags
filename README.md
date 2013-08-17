@@ -154,7 +154,6 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 <link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
 <link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone4.png" />
 <link rel="apple-touch-startup-image" href="/startup.png">
-
 <link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" />
 ```
     
