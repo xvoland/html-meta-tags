@@ -187,23 +187,32 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 ```
 
 #### Remove image toolbar from IE6
-```<meta http-equiv="imagetoolbar" content="false">```
+```
+<meta http-equiv="imagetoolbar" content="false">
+```
 
 #### Older methods of declaring a site to be fit for mobile use
-```<meta name="HandheldFriendly" content="true"> ``` 
-```<meta name="MobileOptimized" content="320">```
+```
+<meta name="HandheldFriendly" content="true">
+<meta name="MobileOptimized" content="320">
+```
 
 #### For touch devices with IE11 [see here](http://blogs.msdn.com/b/ie/archive/2013/07/31/ie11-touch-browsing-for-today-s-web-and-beyond.aspx)
-```<meta name="msapplication-tap-highlight" content="no">```
+```
+<meta name="msapplication-tap-highlight" content="no">
+```
 
 #### Android DPI tag
-```<meta name="viewport" content="target-densitydpi=device-dpi">```
+```
+<meta name="viewport" content="target-densitydpi=device-dpi">
+```
 
 #### Supposedly prevents your site from being set in an iframe
-```<meta http-equiv="window-target" content="_top">```
-
-```<meta name="googlebot" content="noodp">```
-```<meta name="creation_date" CONTENT="date">```
+```
+<meta http-equiv="window-target" content="_top">
+<meta name="googlebot" content="noodp">
+<meta name="creation_date" CONTENT="date">
+```
 
 ## Other Resources
 
